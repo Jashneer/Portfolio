@@ -8,8 +8,8 @@ const projects = [
     description: "A centralized digital ecosystem engineered to bridge the communication gap between institutions and their global alumni networks.",
     techSpecs: "Solved the challenge of scattered alumni data by building a unified system for mentorship and career tracking. Replaced informal communication channels with a secure, searchable directory and real-time event management system. Designed to empower students through direct access to alumni mentorship and internship opportunities.",
     color: "text-blue-400",
-    githubUrl: "https://github.com/jashneer/alumni-platform",
-    liveUrl: "https://alumni-connect-hackspire.netlify.app"
+    githubUrl: "https://github.com/Jashneer/Alumni_Network",
+    liveUrl: "https://alumni-network.vercel.app/"
   },
   {
     title: "TradeASkill",
@@ -18,8 +18,8 @@ const projects = [
     description: "A peer-to-peer exchange platform focusing on modular state management and React-based logic.",
     techSpecs: "Engineered a dynamic frontend using React to manage complex user-to-user interaction flows. Implemented a modular component architecture for high code reusability. Designed an efficient client-side search and filtering system using JavaScript to minimize latency.",
     color: "text-indigo-400",
-    githubUrl: "https://github.com/jashneer/tradeskill",
-    liveUrl: "https://tradeskill-platform.vercel.app"
+    githubUrl: "https://github.com/Jashneer/trade-a-skill",
+    liveUrl: "https://trade-a-skill-r5lu.vercel.app/"
   }
 ];
 
