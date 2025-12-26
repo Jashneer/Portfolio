@@ -19,7 +19,7 @@ export default function Hero() {
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a 
-            href="/Resume_JashneerKaur.pdf"
+            href="/JashneerKaur_Resume.pdf"
             download="Jashneer_Kaur_Resume.pdf"
             className="bg-indigo-500 hover:bg-indigo-600 text-white px-8 py-3 rounded-lg font-medium transition-all flex items-center justify-center space-x-2 shadow-lg shadow-indigo-500/20"
           >
