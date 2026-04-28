@@ -27,7 +27,7 @@ export default function About() {
               <div className="bg-slate-700/40 rounded-lg p-5 border-l-4 border-indigo-500">
                 <h4 className="text-lg font-semibold text-white mb-1">Education</h4>
                 <p className="text-slate-300 font-medium">B.E. Computer Science</p>
-                <p className="text-slate-400 text-sm">CGPA: 8.06 • Expected Graduation: 2028</p>
+                <p className="text-slate-400 text-sm">CGPA: 8.78 • Expected Graduation: 2028</p>
               </div>
               
               <div className="bg-slate-700/40 rounded-lg p-5">
