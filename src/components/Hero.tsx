@@ -12,7 +12,7 @@ export default function Hero() {
             B.E. Computer Science Student | Java DSA Specialist | Open Source Contributor
           </p>
           <p className="text-lg text-slate-400 max-w-2xl mx-auto leading-relaxed">
-            A CS student with a CGPA of 8.60, specializing in Java-based algorithmic 
+            A CS student with a CGPA of 8.94, specializing in Java-based algorithmic 
             problem solving and modular frontend architecture.
           </p>
         </div>
